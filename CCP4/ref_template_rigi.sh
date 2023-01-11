@@ -2,7 +2,7 @@
 
 ###############################################################
 ### ref_template_rigi.sh                     version 230111  ##
-### (C) 2022 Adams Vallejos                                  ##
+### (C) 2023 Adams Vallejos                                  ##
 ###############################################################
 
 # ANYTHING INPUT ON A LINE AFTER “!” OR “#” IS IGNORED
